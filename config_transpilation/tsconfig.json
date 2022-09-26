@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    // "target": "ESNext"       // target ESNext
+    // "noEmitOnError": true,   // don't create a dist folder if a error happen
+    // "noEmit": true           // will never create a dist folder but keep showing error
+
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
+}
